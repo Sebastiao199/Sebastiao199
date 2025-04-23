@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working at Avanade
+I am currently working as Data Engineer at Avanade and doing my master's thesis on "SDGs Identification in AcademicDocuments: A Supervised Learning Approach"
 
 <!--
 **Sebastiao199/Sebastiao199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
